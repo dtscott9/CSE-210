@@ -33,7 +33,7 @@ hilo_game (this folder contains the entire game)
     -- director.cs (this file puts the card into play and prompts the user)
     -- hilo_game.csproj (this is the dotnet file)
 
-# Technology Require
+# Technology Required
 
 .Net 6.0
 
