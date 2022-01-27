@@ -3,9 +3,11 @@
 
 using GameDirector;
 
-namespace HiloGame {
+namespace HiloGame 
+{
 
-    class Program {
+    class Program 
+    {
 
         // This is where the program is called and starts to run. 
         static void Main(string[] args) {
@@ -15,18 +17,4 @@ namespace HiloGame {
             director.GameStart();
         }
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }

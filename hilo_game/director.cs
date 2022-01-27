@@ -1,12 +1,14 @@
 using GameCard;
 
-namespace GameDirector {
+namespace GameDirector 
+{
 
     // The director class is basically the card dealer of the game. Inside
     // of this class are methods that present the player with a card, ask
     // them if they'd like to guess if the next card is higher or lower, and
     // ask them if they'd like to continue playing. 
-    public class Director {
+    public class Director 
+    {
        int totalScore = 300;
 
        //This DirectorChoice function calls the constructor from the card class
@@ -65,7 +67,8 @@ namespace GameDirector {
                 score += 200;
             }
 
-            else {
+            else 
+            {
                 Console.WriteLine("That is not a valid choice, try again");
             }
 
