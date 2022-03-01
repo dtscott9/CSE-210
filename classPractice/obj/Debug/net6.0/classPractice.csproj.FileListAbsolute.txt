@@ -1,0 +1,15 @@
+C:\Users\dtsco\OneDrive\Desktop\Coding3\classPractice\bin\Debug\net6.0\classPractice.exe
+C:\Users\dtsco\OneDrive\Desktop\Coding3\classPractice\bin\Debug\net6.0\classPractice.deps.json
+C:\Users\dtsco\OneDrive\Desktop\Coding3\classPractice\bin\Debug\net6.0\classPractice.runtimeconfig.json
+C:\Users\dtsco\OneDrive\Desktop\Coding3\classPractice\bin\Debug\net6.0\classPractice.dll
+C:\Users\dtsco\OneDrive\Desktop\Coding3\classPractice\bin\Debug\net6.0\ref\classPractice.dll
+C:\Users\dtsco\OneDrive\Desktop\Coding3\classPractice\bin\Debug\net6.0\classPractice.pdb
+C:\Users\dtsco\OneDrive\Desktop\Coding3\classPractice\obj\Debug\net6.0\classPractice.csproj.AssemblyReference.cache
+C:\Users\dtsco\OneDrive\Desktop\Coding3\classPractice\obj\Debug\net6.0\classPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dtsco\OneDrive\Desktop\Coding3\classPractice\obj\Debug\net6.0\classPractice.AssemblyInfoInputs.cache
+C:\Users\dtsco\OneDrive\Desktop\Coding3\classPractice\obj\Debug\net6.0\classPractice.AssemblyInfo.cs
+C:\Users\dtsco\OneDrive\Desktop\Coding3\classPractice\obj\Debug\net6.0\classPractice.csproj.CoreCompileInputs.cache
+C:\Users\dtsco\OneDrive\Desktop\Coding3\classPractice\obj\Debug\net6.0\classPractice.dll
+C:\Users\dtsco\OneDrive\Desktop\Coding3\classPractice\obj\Debug\net6.0\ref\classPractice.dll
+C:\Users\dtsco\OneDrive\Desktop\Coding3\classPractice\obj\Debug\net6.0\classPractice.pdb
+C:\Users\dtsco\OneDrive\Desktop\Coding3\classPractice\obj\Debug\net6.0\classPractice.genruntimeconfig.cache
